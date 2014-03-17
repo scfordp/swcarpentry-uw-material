@@ -1,6 +1,18 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Notes from Git sessions:
 
 - 
 editing notes
 
+=======
+Notes from Git sessions:
+
+Local
+Main workflow: init, then add/commit
+
+Remote
+Main workflow...don't know yet
+>>>>>>> f969580458c2966ef4550fdd5983a21e116deac7
+
+Keeping all changes
