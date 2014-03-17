@@ -1,4 +1,6 @@
+<<<<<<< HEAD
 Notes from Git sessions:
 
 - 
 editing notes
+
